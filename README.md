@@ -1,5 +1,4 @@
 # Sustainability-Hack
-<<<<<<< HEAD
 ```html
 
-``
+```
