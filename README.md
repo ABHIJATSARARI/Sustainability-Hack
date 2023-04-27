@@ -1,16 +1,6 @@
 # Sustainability-Hack
 ```
-<h2>Example of code</h2>
+<iframe src="https://github.com/ABHIJATSARARI/Sustainability-Hack/blob/main/ideatation/dashboard.html" width="100%" height="500px"></iframe>
 
-<pre>
-<div class="container">
-<div class="block two first">
-<h2>Your title</h2>
-<div class="wrap">
-//Your content
-</div>
-</div>
-</div>
-</pre>
 
 ```
