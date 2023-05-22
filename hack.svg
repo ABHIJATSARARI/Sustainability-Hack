@@ -203,8 +203,8 @@
     <div class='body'>
       <div class='container'>
         <div>
-            <script type="javascript" src="sc1.js"></script>
-            <script type="text/javascript" src="sc2.js"></script>
+            <script type="javascript" src="https://github.com/ABHIJATSARARI/Sustainability-Hack/blob/main/sc1.js"></script>
+            <script type="text/javascript" src="https://github.com/ABHIJATSARARI/Sustainability-Hack/blob/main/sc2.js"></script>
             <div id="d68da85e-0aba-4a19-9e0d-67b38386d18a" class="plotly-graph-div" style="height: 100%; width: 100%;"></div>
             <script type="text/javascript" src="sc3.js"></script>
         </div>
